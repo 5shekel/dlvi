@@ -6,6 +6,7 @@ archive my likes
 * load all video, right click on fo them and hit inspect, then copy all the div to clipboard
 
 #### run python script to extract all the video links to a .txt file
+'python extractLinks.py raw.txt >> links.txt'
 
 #### run youtube-dl one liner 
 
